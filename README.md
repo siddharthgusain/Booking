@@ -1,2 +1,3 @@
 # Booking
-## All in one booking Website UI made using HTML5,CSS3,SASS
+## All in one booking Website UI.
+## Tech Stack: HTML5,CSS3,SASS
